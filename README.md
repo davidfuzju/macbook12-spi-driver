@@ -1,3 +1,6 @@
+> [!NOTE]
+> Mirror of [roadrunner2/macbook12-spi-driver](https://github.com/roadrunner2/macbook12-spi-driver) by its original authors, kept for reference only. Not my work; the keyboard/trackpad driver is in mainline Linux since v5.3.
+
 Input driver for the SPI keyboard / trackpad found on 12" MacBooks (2015 and later) and newer MacBook Pros (late 2016 through mid 2018), as well a simple touchbar and ambient-light-sensor driver for late 2016 MacBook Pro's and later.
 
 The keyboard / trackpad driver here is now included in the kernel as of v5.3.
